@@ -1,0 +1,7 @@
+{
+  "source_rows": 250000,
+  "invalid_rows_removed": 0,
+  "clean_rows": 250000,
+  "date_min": "2023-01-01",
+  "date_max": "2025-12-31"
+}
